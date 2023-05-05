@@ -15,7 +15,7 @@ class Training():
         pass
 
     def show_training_info():
-        pass
+        ...
 
 class Running():
     action: int
